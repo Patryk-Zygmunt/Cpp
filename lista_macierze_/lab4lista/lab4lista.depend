@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459719732 source:c:\users\windows 10\documents\c++\lab4lista\main.cpp
+	<iostream>
+	"mac.h"
+
+1459544686 source:c:\users\windows 10\documents\c++\lab4lista\mac.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+	"mac.h"
+
+1459544305 c:\users\windows 10\documents\c++\lab4lista\mac.h
+	<iostream>
+	<cstdio>
+	<ctime>
+

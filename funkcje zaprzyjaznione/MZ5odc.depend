@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456327531 source:c:\users\windows 10\documents\c++\mz5odc\void.cpp
+	<iostream>
+	"klasa.h"
+
+1456327523 c:\users\windows 10\documents\c++\mz5odc\klasa.h
+	<iostream>
+
+1456327513 source:c:\users\windows 10\documents\c++\mz5odc\main.cpp
+	<iostream>
+	"klasa.h"
+
